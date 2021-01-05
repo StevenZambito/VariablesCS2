@@ -19,6 +19,14 @@ namespace VariablesCS2
             Console.Write("What is your name? ");
             var userName = Console.ReadLine();
             Console.WriteLine($"Nice to meet you {userName}!");
+
+            Console.WriteLine("Please input a number here:");
+            var firstNumberAsString = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please input another number here:");
+            var secondNumberAsString = int.Parse(Console.ReadLine());
+
+
+
         }
     }
 }
