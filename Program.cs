@@ -16,7 +16,9 @@ namespace VariablesCS2
             Console.WriteLine(fullName);
             Console.WriteLine(today);
 
-
+            Console.Write("What is your name? ");
+            var userName = Console.ReadLine();
+            Console.WriteLine($"Nice to meet you {userName}!");
         }
     }
 }
