@@ -1,8 +1,8 @@
-# VariablesCS2
+# Variables
 
 ### Summary
 
-This project was my first experience coding a basic web app with C#. I practiced creating variables, getting input from the user, as well as getting different types of input from the user. I also converted string input into numbers.
+This project was my first experience coding with C#. This program demonstrates some programming fundamentals. I practiced creating variables, getting input from the user, as well as getting different types of input from the user. I also converted string input into numbers.
 
 ### Project Goals
 
