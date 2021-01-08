@@ -40,4 +40,4 @@ Part V
 
 ### Technologies Used
 
-HTML, CSS, JavaScript
+C#
